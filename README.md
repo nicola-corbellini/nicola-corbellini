@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Currently, I'm a PhD student@InfoMus lab, DIBRIS, University of Genoa and my research is about Social Signal Processing field.
+
+#### You can find me on
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+### Latest Medium Post
+
+[![Nicola Corbellini Medium](https://github-readme-medium.vercel.app/?username=nicola.corbellini93&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
 <!--
 **nicola-corbellini/nicola-corbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicola-corbellini&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicola-corbellini&show_icons=true&theme=dark)
