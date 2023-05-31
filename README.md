@@ -9,7 +9,7 @@ Currently, I'm a PhD student@InfoMus lab, DIBRIS, University of Genoa and my res
 
 ### Latest Medium Post
 
-[![Nicola Corbellini Medium](https://github-readme-medium.vercel.app/?username=nicola.corbellini93&limit=3&bg=black&text=white)](https://medium.com/@nicola.corbellini93)
+![Nicola Corbellini Medium](https://github-readme-medium.vercel.app/?username=nicola.corbellini93)](https://medium.com/@nicola.corbellini93)
 <!--
 **nicola-corbellini/nicola-corbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicola-corbellini&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicola-corbellini&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicola-corbellini&layout=compact)
