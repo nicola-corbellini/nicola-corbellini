@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently, I'm a PhD student@InfoMus lab, DIBRIS, University of Genoa and my research is about Social Signal Processing field.
+Currently, I'm a PhD student@InfoMus lab, DIBRIS, University of Genoa and my research is about Social Signal Processing.
 
 <!-- #### You can find me on
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)
